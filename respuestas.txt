@@ -2,4 +2,5 @@ RVM es una plataforma diseñada para manejar multiples versiones de ruby en un m
 
 La version interactiva como la palabra indica te permite mas rapido ver los resultados y tener una respuesta mas rapida de las ejecuciones que la version a traves del fichero .rb .
 
+La version a traves del interprete pues despues de haberlo escrito todo te sale dicha ejecucion mientras que con pry te permite mayor interactividad de ir viendo el valor de las variables y de ir cambiando dichos valores.
 
